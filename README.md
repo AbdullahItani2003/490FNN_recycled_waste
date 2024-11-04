@@ -34,3 +34,7 @@ Python 3.x
 TensorFlow
 pandas
 scikit-learn
+
+How to run
+
+Make sure the csv file and the jupiter notebook are in the same directory
